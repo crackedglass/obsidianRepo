@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"e777a700be3f6b84","type":"text","text":"AdminController","x":-500,"y":40,"width":250,"height":60},
+		{"id":"87f4845ff434b512","x":-40,"y":-120,"width":250,"height":60,"type":"text","text":" loadNewMap"},
+		{"id":"fae2044f2732f762","x":-40,"y":-40,"width":250,"height":60,"type":"text","text":"updateCellOwners"},
+		{"id":"c2ec6ac713e32d14","x":-40,"y":40,"width":250,"height":60,"type":"text","text":"addMoney"},
+		{"id":"5272632df7f6ba6a","x":-40,"y":120,"width":250,"height":60,"type":"text","text":"loadUsers"},
+		{"id":"9a1e90e9070b4f29","x":-40,"y":200,"width":250,"height":60,"type":"text","text":"applyChanges"}
+	],
+	"edges":[
+		{"id":"4aa975694fde2d01","fromNode":"e777a700be3f6b84","fromSide":"right","toNode":"87f4845ff434b512","toSide":"left"},
+		{"id":"8a09f729c266409e","fromNode":"e777a700be3f6b84","fromSide":"right","toNode":"fae2044f2732f762","toSide":"left"},
+		{"id":"c572e9d4a9040b9a","fromNode":"e777a700be3f6b84","fromSide":"right","toNode":"c2ec6ac713e32d14","toSide":"left"},
+		{"id":"43342925e3d66911","fromNode":"e777a700be3f6b84","fromSide":"right","toNode":"5272632df7f6ba6a","toSide":"left"},
+		{"id":"3f584724c2519187","fromNode":"e777a700be3f6b84","fromSide":"right","toNode":"9a1e90e9070b4f29","toSide":"left"}
+	]
+}
